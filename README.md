@@ -1,4 +1,6 @@
-🚀 CI/CD Pipeline for Kaiburr Task-1 (Spring Boot + Docker)
+🚀 CI/CD Pipeline for Kaiburr Task-1
+<img width="993" height="413" alt="Screenshot 2025-10-20 000054" src="https://github.com/user-attachments/assets/2652d2fd-78c1-46e4-af1e-cfce37bb0369" />
+ (Spring Boot + Docker)
 
 This document explains how the Continuous Integration and Continuous Deployment (CI/CD) pipeline was created for the Kaiburr Task-1 Spring Boot application using GitHub Actions.
 
@@ -12,6 +14,9 @@ Docker	Containerizes the Java application
 GitHub Container Registry (GHCR)	Stores and manages Docker images
 Java 21 (Temurin)	Runtime environment for the application
 ⚙️ CI/CD Workflow Overview
+
+<img width="2053" height="1507" alt="Screenshot 2025-10-19 232905" src="https://github.com/user-attachments/assets/33b0d884-daab-469c-8326-a6cc225ca9ef" />
+
 
 Whenever a new version tag (like v1.0.0) is pushed to the GitHub repository:
 
