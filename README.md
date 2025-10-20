@@ -18,6 +18,9 @@ Java 21 (Temurin)	Runtime environment for the application
 <img width="2053" height="1507" alt="Screenshot 2025-10-19 232905" src="https://github.com/user-attachments/assets/33b0d884-daab-469c-8326-a6cc225ca9ef" />
 
 
+<img width="2513" height="1362" alt="Screenshot 2025-10-20 170327" src="https://github.com/user-attachments/assets/3d5a394f-9d0c-432d-9a38-da66e5398358" />
+
+
 Whenever a new version tag (like v1.0.0) is pushed to the GitHub repository:
 
 🧩 GitHub Actions automatically triggers the workflow.
